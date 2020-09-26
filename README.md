@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Srishti Gauraha.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on HTML,JAVA and Python.
 - 🌱 I’m currently learning Web Development and Competitive Coding.
 - 👯 I’m looking to collaborate on open source projects.
