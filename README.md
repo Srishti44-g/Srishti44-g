@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with logic building and competitive coding.
 - 💬 Ask me about related to my repositories.
 - 📫 How to reach me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
-- 😄 Pronouns: ...
+- 😄 Pronouns: Enthusiatic and optimistic.
 - ⚡ Fun fact: I like to play Badminton.
