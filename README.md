@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like to play Badminton.
--->
