@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Srishti Gauraha.
+# This is Srishti Gauraha.
 
 - 🔭 I’m currently working on HTML,JAVA and Python.
 - 🌱 I’m currently learning Web Development and Competitive Coding.
@@ -8,4 +8,4 @@ I am Srishti Gauraha.
 - 💬 Ask me about related to my repositories.
 - 📫 How to reach me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
 - 😄 Pronouns: Enthusiatic and optimistic.
-- ⚡ Fun fact: I like to play Badminton.
+- ⚡ Fun fact: I like to play  # Badminton.
