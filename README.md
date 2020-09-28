@@ -8,4 +8,4 @@
 - 💬 Ask me about related to my repositories.
 - 📫 How to reach me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
 - 😄 Pronouns: Enthusiatic and optimistic.
-- ⚡ Fun fact: I like to play  # Badminton.
+- ⚡ Fun fact: I like to play Badminton.
