@@ -13,5 +13,5 @@
 
 
 
-![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=dark&show_icons=true)
+![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=omni&show_icons=true)
 
