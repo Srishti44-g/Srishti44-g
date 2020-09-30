@@ -12,5 +12,6 @@
 - ⚡ Fun fact:  **I like to play Badminton**.
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g)
+
+![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=dark&show_icons=true)
 
