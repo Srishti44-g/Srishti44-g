@@ -15,3 +15,4 @@
 
 ![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=omni&show_icons=true)
 
+![Srishti44-g's github repo](https://github-readme-stats.vercel.app/api/pin/?username=Srishti44-g&repo=github-readme-stats&cache_seconds=86400&theme=vision-friendly-dark)
