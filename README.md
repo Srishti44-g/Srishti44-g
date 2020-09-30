@@ -11,3 +11,6 @@
 - 😄 Pronouns: **Enthusiatic and optimistic**.
 - ⚡ Fun fact:  **I like to play Badminton**.
 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g)
+
