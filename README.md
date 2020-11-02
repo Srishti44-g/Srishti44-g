@@ -1,6 +1,6 @@
 # Hi there 👋
-#### I'm Srishti Gauraha.
- ## Welcome 
+## I'm Srishti Gauraha.
+ ### Welcome 
 
 - 🔭 I’m currently working on **HTML,JAVA and Python**.
 - 🌱 I’m currently learning  **Web Development and Competitive Coding**.
