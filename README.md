@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Srishti Gauraha.
+## I'm SRISHTI GAURAHA
  ### Welcome 
 
 - 🔭 I’m currently working on **HTML,JAVA and Python**.
