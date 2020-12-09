@@ -3,7 +3,7 @@
  ### Welcome 
 
 - 🔭 I’m currently working on **HTML,JAVA and Python**.
-- 🌱 I’m currently learning  **Web Development and Competitive Coding**.
+- 🌱 I’m currently learning  **Web Development**.
 - 👯 I’m looking to collaborate on  **open source projects**.
 - 🤔 I’m looking for help with  **logic building and competitive coding**.
 - 💬 Ask me about related to my repositories.
