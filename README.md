@@ -13,10 +13,5 @@
 
 # ![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=omni&show_icons=true)<br>
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti44-g&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Srishti44-g/count.svg" />
-</p>
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Srishti44-g.visitor-badge)
 
