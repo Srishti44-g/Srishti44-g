@@ -18,5 +18,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Srishti44-g/count.svg" />
 </p>
-<br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=arwazkhan189.visitor-badge)
+<br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Srishti44-g.visitor-badge)
 
