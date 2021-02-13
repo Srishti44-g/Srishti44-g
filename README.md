@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with  **logic building and competitive coding**.
 - 💬 Ask me about related to my repositories.
 - 📫 How to reach me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
-- 😄 Pronouns: She/Her.
+- 😄 Pronouns: She/her/hers.
 - ⚡ Fun fact:  **I like to play Badminton**.
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Srishti44-g.visitor-badge)
 # ![Srishti44-g's github stats](https://github-readme-stats.vercel.app/api?username=Srishti44-g&theme=omni&show_icons=true)<br>
