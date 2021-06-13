@@ -1,5 +1,6 @@
 
-## I'm Srishti Gauraha
+## I'm Srishti Gauraha   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
 ## If you know me then I am glad to know that 
 ## Welcome to my profile !
 ### Connect with me: https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/
