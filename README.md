@@ -23,11 +23,11 @@ class SrishtiGauraha:
     def connect(self):
         return "Let's innovate together!"
  ```
-🌟 Highlights & Achievements
-🎓 Master's Student with deep interest in AI and ML.
-📘 Author in Progress: Crafting a hands-on AI book.
-🏆 Research Internships: AI researcher at AI makes possible.
-💡 Passionate about building user-friendly AI tools for finance and education.
+🌟 Highlights & Achievements<br>
+ 🎓 Master's Student with deep interest in AI and ML.<br>
+ 📘 Author in Progress: Crafting a hands-on AI book.<br>
+ 🏆 Research Internships: AI researcher at AI makes possible.<br>
+ 💡 Passionate about building user-friendly AI tools for finance and education.
 
 
 🛠️ My Toolkit
