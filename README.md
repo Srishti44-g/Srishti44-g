@@ -1,29 +1,52 @@
-<h1 align="center">Hi 👋, I'm Srishti</h1>
-<h3 align="center">A passionate frontend developer and machine learning engineer</h3>
+<h1 align="center">👋 Hi there, I'm <a href="https://www.linkedin.com/in/srishti-gauraha/" target="_blank">Srishti Gauraha</a>! 🚀</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti44-g&label=Profile%20views&color=0e75b6&style=flat" alt="srishti44-g" /> </p>
-
-- 🔭 I’m currently working on **machine learning**
-
-- 🌱 I’m currently learning **AI,Web Development**
-
-- 💬 Ask me about **machine learning and deep learning**
-
-- 📫 How to reach me **srishtigauraha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/srishti44g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/srishti44g" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srishti-gauraha-a2a8851a1/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/srishtigauraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/srishtigauraha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/srishti_gauraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="srishti_gauraha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0099FF&width=435&lines=AI+Researcher+%7C+Software+Developer;Machine+Learning+Enthusiast+%7C+Problem+Solver;Building+for+the+Future!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srishti44-g&show_icons=true&locale=en&layout=compact" alt="srishti44-g" /></p>
+### 🧑‍💻 About Me  
+```python
+class SrishtiGauraha:
+    def __init__(self):
+        self.name = "Srishti Gauraha"
+        self.role = "AI/ML Researcher | Software Developer"
+        self.goals = [
+            "Building world-class products",
+            "Making life easier with tech",
+            "Exploring cutting-edge AI",
+            "Writing hands-on AI books"
+        ]
+        self.hobbies = ["Coding", "Research", "Puzzle Solving", "Learning New Tech"]
+    
+    def connect(self):
+        return "Let's innovate together!"
+ ```
+🌟 Highlights & Achievements
+🎓 Master's Student with deep interest in AI and ML.
+📘 Author in Progress: Crafting a hands-on AI book.
+🏆 Research Internships: AI researcher at AI makes possible.
+💡 Passionate about building user-friendly AI tools for finance and education.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishti44-g&show_icons=true&locale=en" alt="srishti44-g" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srishti44-g&" alt="srishti44-g" /></p>
+🛠️ My Toolkit
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,django,flask,tensorflow,pytorch,docker,kubernetes,git,github,html,css,sql,linux,vscode&theme=dark" alt="Tech Stack" /> </p>
+
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Srishti44-g&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Srishti44-g&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Srishti44-g&theme=github_dark" alt="Repos per language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Srishti44-g&theme=github_dark" alt="Most Commit Language" /> </p>
+
+🌀 Activity Graph
+
+[![Srishti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Srishti44-g&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+🎉 Fun Badges
+<p align="center"> <img src="https://img.shields.io/badge/Made%20With-Love-%23ff69b4?style=for-the-badge&logo=heart&logoColor=white" alt="Love Badge" /> <img src="https://img.shields.io/badge/Always-Learning-%2300C853?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Learning Badge" /> <img src="https://img.shields.io/badge/Focused%20On-Quality-%23FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Quality Badge" /> </p>
+
+🔮 Fun Animations
+<p align="center"> <img src="https://raw.githubusercontent.com/Srishti44-g/Srishti44-g/main/coding.gif" alt="Coding GIF" width="400"> </p> <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Code GIF" width="400"> </p>
+
+🌐 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/srishti-gauraha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a> <a href="mailto:srishti44.g@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a> <a href="https://github.com/Srishti44-g" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a> </p>
+<p align="center">⭐️ If you enjoyed this README, don't forget to leave a star! ⭐️</p> ```
