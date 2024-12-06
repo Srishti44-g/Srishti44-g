@@ -17,6 +17,7 @@ class SrishtiGauraha:
             "Making life easier with tech",
             "Exploring cutting-edge AI",
             "Writing hands-on AI books"
+            "Milestones to achieve"
         ]
         self.hobbies = ["Coding", "Research", "Puzzle Solving", "Learning New Tech"]
     
