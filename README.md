@@ -20,7 +20,6 @@ I'm a passionate technologist and research enthusiast pursuing a Master's in Tec
 - 🔭 Currently working on: **World-class products**
 - 📚 Writing a hands-on AI book and publishing interactive research.
 - 🎯 Building a world-class platform for learners and professionals.
-- 🌐 Founder of **Law for Everyone** — a complete legal awareness platform.
 
 ---
 
