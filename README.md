@@ -7,7 +7,7 @@
   <a href="https://github.com/Srishti44-g"><img src="https://img.shields.io/github/followers/Srishti44-g?label=GitHub&style=social" /></a>
   <a href="https://www.linkedin.com/in/srishti-gauraha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:srishtigauraha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://srishti44-g.github.io](https://srishti44-g.github.io/Srishti_Gauraha_Portfolio/)"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome" /></a>
+  <a href="["https://srishti44-g.github.io/Srishti_Gauraha_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat&logo=google-chrome" /></a>
 </p>
 
 ---
