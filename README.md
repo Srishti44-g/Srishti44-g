@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Srishti Gauraha 👋</h1>
 <p align="center">
-  <b>AI Researcher | Software Engineer | Full Stack Developer | Content Creator | Open Source Contributor</b>  
+  <b>AI Researcher | Software Engineer | Full Stack Developer | Content Creator on Youtube | Open Source Contributor </b>  
 </p>
 <p align="center">
   <a href="https://github.com/Srishti44-g"><img src="https://img.shields.io/github/followers/Srishti44-g?label=GitHub&style=social" /></a>
