@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Srishti Gauraha 👋</h1>
+<h1 align="center">HI there, I'm Srishti Gauraha 👋</h1>
 <p align="center">
   <b>AI Researcher | Software Engineer | Full Stack Developer | Content Creator on Youtube | Open Source Contributor </b>  
 </p>
